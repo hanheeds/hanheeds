@@ -1,14 +1,13 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/hanheeds/hanheeds/blob/main/banner.jpg)
 
 
 Hello, I'm Hanhee Yang. Student at Northwestern studying Computer Science with experience in Data Science & Engineering.
 
 - Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+- Analyzing data with Jupyter Notebooks.
+- Developing dashboards on Tableau and Spotfire.
 
 📚 Projects <br>
 Welcome to my portfolio, where I showcase my projects.
