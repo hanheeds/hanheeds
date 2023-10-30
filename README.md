@@ -10,7 +10,7 @@ Hello, I'm Hanhee Yang. Student at Northwestern studying Computer Science with e
 - Developing dashboards on Tableau and Spotfire.
 
 📚 Projects <br>
-Welcome to my portfolio, where I showcase my [projects] (https://github.com/hanheeds/Portfolio-Guide).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/hanheeds/Portfolio-Guide).
 
 🛠️ Tools <br>
 Language: SQL, Python, R
