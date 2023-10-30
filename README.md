@@ -5,10 +5,6 @@
 
 Hello, I'm Hanhee Yang. Student at Northwestern studying Computer Science with experience in Data Science & Engineering.
 
-- Querying data using SQL.
-- Analyzing data with Jupyter Notebooks.
-- Developing dashboards on Tableau and Spotfire.
-
 📚 Projects <br>
 Welcome to my portfolio, where I showcase my [projects](https://github.com/hanheeds/Portfolio-Guide).
 
