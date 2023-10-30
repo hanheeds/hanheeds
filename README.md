@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![alt text](https://github.com/hanheeds/hanheeds/blob/main/banner.jpg)
+![alt text](https://github.com/hanheeds/hanheeds/blob/main/banner.png)
 
 
 Hello, I'm Hanhee Yang. Student at Northwestern studying Computer Science with experience in Data Science & Engineering.
